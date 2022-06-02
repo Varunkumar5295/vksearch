@@ -1,0 +1,103 @@
+.grid{
+    height: 23px;
+    
+    text-align: right;
+    padding-right:10px;
+}
+.signbutton{
+    text-align: center;
+    background-color: #4885ed;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    padding: 7px 10px;
+    position: relative;
+    font-weight: bold;
+}
+.logo{
+    margin: 200px;
+    margin-bottom: 20px;
+}
+.bar{
+    margin: 0 auto;
+    width: 575px;
+    border-radius: 30px;
+    border: 1px solid #dcdcdc;
+}
+.searchbar{
+    height: 45px;
+    width: 500px;
+    border: none;
+    font-size: 16px;
+    outline:#4885ed;
+}
+.voice{
+    height: 20px;
+    position: relative;
+    top: 5px;
+    left: 10px;
+}
+.buttons{
+    margin-top: 30px;
+}
+.button{
+    color: #707070;
+    font-size: 15px;
+    padding: 10px 20px;
+
+}
+.gmail{
+    text-align: right;
+    padding-right: 10px ;
+}
+.image{
+    text-align: right;
+    padding-right: 10px ;
+}
+.class{
+    text-align: right;
+    padding-right: 10px ;
+}
+.ਪੰਜਾਬੀ{
+    text-align: right;
+    padding-right: 10px ;
+}
+.हिन्दी{
+    text-align: right;
+    padding-right: 10px;
+}
+.বাংলা{
+    text-align: right;
+    padding-right: 10px;
+
+}
+.తెలుగు{
+    text-align: right;
+    padding-right: 10px;
+
+}
+.मराठी{
+    text-align: right;
+    padding-right: 10px;
+
+}
+.தமிழ்{
+    text-align: right;
+    padding-right: 10px;
+
+}
+.ગુજરાતી{
+    text-align: right;
+    padding-right: 10px;
+
+}
+.ಕನ್ನಡ{
+    text-align: right;
+    padding-right: 10px;
+
+}
+.മലയാളം{
+    text-align: right;
+    padding-right: 10px;
+
+}
